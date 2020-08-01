@@ -17,9 +17,9 @@ $ cd mxgraph2
 $ npm install
 $ cd ../demoapp
 $ npm install --save ../mxgraph2
-$ npm install lgleim/mxgraph-typings --save
+$ npm install --save lgleim/mxgraph-typings 
 $ npm install
-$ 
+
 ```
 
 After this step complete, mxgraph2 folder should be at the same level as demoapp
